@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">New Gen Blog</string>
+    <string name="your_web_client_id">1017111042806-2cmujl64t5h6k982b77ooh92lj80vaqg.apps.googleusercontent.com</string>
+    <string name="agree_terms_condition">I agree to New Gen Blog\'s Terms and Conditions and Privacy policy .</string>
+    <string name="terms_condition"><![CDATA[Terms & Condition]]></string>
+    <string name="user_not_loggedIn">You are not logged in. Please log in before continuing. If you are new user signup for a new account.</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release333 of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="reset_password_hint">Enter the email associated with your account and we\'ll send an email with instruction to reset your password</string>
+    <string name="recovaryEmail">Recovery email sent successfully! Check your inbox </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet">Slow or no internet connection.\n Please check your internet settings and try again.</string>
+
+
+    <string name="g_banner">ca-app-pub-8969863088779640/7226634237</string>
+    <string name="g_native_ad">ca-app-pub-8969863088779640/7229806144</string>
+    <string name="g_inter_ad">ca-app-pub-8969863088779640/4504461494</string>
+
+    <string name="app_live_id">ca-app-pub-8969863088779640~2445080849</string>
+    <!-- ================ Google Test ads ===================== -->
+    <!--banner Test id:    ca-app-pub-3940256099942544/6300978111 -->
+    <!--native test id:   ca-app-pub-3940256099942544/2247696110 -->
+    <!--interstitial_g test id:   ca-app-pub-3940256099942544/1033173712 -->
+    <!--interstitial_g Video test id:   ca-app-pub-3940256099942544/8691691433 -->
+
+    <!-- ===============Google Live ads===================  -->
+    <!--banner_g=>  ca-app-pub-8969863088779640/7226634237-->
+    <!--native_g=>  ca-app-pub-8969863088779640/7229806144-->
+    <!--interstitial_g=>  ca-app-pub-8969863088779640/4504461494-->
+
+</resources>
